@@ -1,0 +1,1 @@
+C:\Users\sidbe\ActiveProjects\Vandad_Rust_Crash_Course\rust-crash-course\rust-crash-course\target\debug\rust-crash-course.exe: C:\Users\sidbe\ActiveProjects\Vandad_Rust_Crash_Course\rust-crash-course\rust-crash-course\src\main.rs
