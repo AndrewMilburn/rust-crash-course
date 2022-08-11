@@ -1,5 +1,6 @@
 #![deny(clippy::all)]
 
 fn main() {
-    println!("Hello Sid");
+    let name = "Sid";
+    let first_name = "Andrew";
 }
